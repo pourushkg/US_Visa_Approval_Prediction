@@ -1,0 +1,25 @@
+ipykernel # use to create jupyter notebook 
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+scipy
+scikit-learn
+imblearn
+xgboost
+catboost
+pymongo # use for mongoDB atlus
+from_root # use to figure out the root folders 
+evidently==0.2.8 # use for data drift prediction 
+dill
+PyYAML
+neuro_mf
+boto3
+mypy-boto3-s3
+botocore
+fastapi
+uvicorn
+jinja2
+python-multipart
+-e . # required for setup.py and create all the local package using setup.py
