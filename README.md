@@ -2,12 +2,12 @@
 
 ## Command to create an environment
 
-'''base
+```base
 conda create -n visa_prediction python=3.8 -y
-'''
+```
 
 ## Command to activate the environment
 
-'''base
+```base
 conda activate visa_prediction
-'''
+```
